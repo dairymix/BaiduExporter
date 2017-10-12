@@ -1,0 +1,16 @@
+.DS_Store
+.gradle/
+.idea/
+build/
+gradle/
+log/
+
+# IDEA metadata and output dirs
+*.iml
+*.ipr
+*.iws
+out
+
+# mac metadata
+.DS_Store
+
